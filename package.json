@@ -1,7 +1,5 @@
 {
-  "name": "postgres-kysely",
-  "repository": "https://github.com/vercel/examples.git",
-  "license": "MIT",
+  "name": "sprucenet",
   "version": "0.0.0",
   "private": true,
   "scripts": {
